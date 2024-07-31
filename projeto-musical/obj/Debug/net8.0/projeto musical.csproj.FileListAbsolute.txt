@@ -1,0 +1,15 @@
+C:\Users\TAY\Desktop\alura\projeto-musical\bin\Debug\net8.0\projeto musical.exe
+C:\Users\TAY\Desktop\alura\projeto-musical\bin\Debug\net8.0\projeto musical.deps.json
+C:\Users\TAY\Desktop\alura\projeto-musical\bin\Debug\net8.0\projeto musical.runtimeconfig.json
+C:\Users\TAY\Desktop\alura\projeto-musical\bin\Debug\net8.0\projeto musical.dll
+C:\Users\TAY\Desktop\alura\projeto-musical\bin\Debug\net8.0\projeto musical.pdb
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.AssemblyInfoInputs.cache
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.AssemblyInfo.cs
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.csproj.CoreCompileInputs.cache
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.sourcelink.json
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.dll
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\refint\projeto musical.dll
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.pdb
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\projeto musical.genruntimeconfig.cache
+C:\Users\TAY\Desktop\alura\projeto-musical\obj\Debug\net8.0\ref\projeto musical.dll
